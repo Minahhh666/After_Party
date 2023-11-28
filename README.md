@@ -8,4 +8,3 @@ For this project, the following stacks are adopted:
 - Backend consisting Node.js, Express.js, and Flask, along with MySQL
 - machine learning models developed using Random Forest and XGBoost
 
-https://afterparty.solutions/
